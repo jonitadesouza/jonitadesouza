@@ -8,6 +8,7 @@ I'm Jonita
 ⭐️ You can see all my work on my personal website
 ✉️ Contact me at jonitadesouza@gmail.com
 
+![PMP Certified](https://img.shields.io/badge/Certification-PMP-blue) ![Google Apps Script](https://img.shields.io/badge/Automation-Apps%20Script-green) ![IIT Bombay](https://img.shields.io/badge/SINE-IIT%20Bombay-orange)
 <!--
 **jonitadesouza/jonitadesouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
