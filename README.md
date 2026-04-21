@@ -2,11 +2,13 @@
 
 I'm Jonita
 
-👨‍💻 I am a Software Engineer at SINE IIT Bombay
+👨‍💻 I am a Digital Architect  at SINE IIT Bombay 
+(Helping startups scale at SINE IIT Bombay.)
 🚀 I work creating software that solve problems in a simple way and sharing what I learn along the way.
 🌍 I'm based in Mumbai, India
 ⭐️ You can see all my work on my personal website
 ✉️ Contact me at jonitadesouza@gmail.com
+
 
 ![PMP Certified](https://img.shields.io/badge/Certification-PMP-blue) ![Google Apps Script](https://img.shields.io/badge/Automation-Apps%20Script-green) ![IIT Bombay](https://img.shields.io/badge/SINE-IIT%20Bombay-orange)
 <!--
