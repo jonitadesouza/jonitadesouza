@@ -3,7 +3,6 @@
 I'm Jonita
 
 👨‍💻 I am a Digital Architect  at SINE IIT Bombay 
-(Helping startups scale at SINE IIT Bombay.)
 🚀 I work creating software that solve problems in a simple way and sharing what I learn along the way.
 🌍 I'm based in Mumbai, India
 ⭐️ You can see all my work on my personal website
