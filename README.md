@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hey there 👋
 
-👋 Hi there, I'm Jonita
-👨‍💻 I am a Software Engineer. in Mumbai
+I'm Jonita
+
+👨‍💻 I am a Software Engineer
 🚀 I work creating software that solve problems in a simple way and sharing what I learn along the way.
 🌍 I'm based in Mumbai, India
 ⭐️ You can see all my work on my personal website
