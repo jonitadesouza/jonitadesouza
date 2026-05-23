@@ -10,7 +10,7 @@ I'm Jonita
 
 Current Deep Dive : Advanced app script use cases
 
-![PMP Certified](https://img.shields.io/badge/Certification-PMP-blue) ![Google Apps Script](https://img.shields.io/badge/Automation-Apps%20Script-green) ![IIT Bombay](https://img.shields.io/badge/SINE-IIT%20Bombay-orange)
+![PMP Certified](https://img.shields.io/badge/Certification-PMP-blue) ![Google AI Studio](https://img.shields.io/badge/Automation-Apps%20Script-green) ![IIT Bombay](https://img.shields.io/badge/SINE-IIT%20Bombay-orange)
 <!--
 **jonitadesouza/jonitadesouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
