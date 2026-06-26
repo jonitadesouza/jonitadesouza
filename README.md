@@ -8,7 +8,7 @@ I'm Jonita
 ⭐️ You can see all my work on my personal website
 ✉️ Contact me at jonitadesouza@gmail.com
 
-- 🔭 I’m currently working on  - Google AI studio and Antigravity
+- 🔭 I’m currently working on  - No longer earth bound working with Antigravity :D
 
 Current Deep Dive : Advanced app script use cases
 
